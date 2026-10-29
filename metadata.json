@@ -1,0 +1,6 @@
+{
+  "name": "NKOANA Automation Gates CC",
+  "description": "Security & Automation Solutions — From Concept to Completion. Automated gates, electric fencing, access control, palisade fencing, fabrication and repairs based in Mmotong, South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
